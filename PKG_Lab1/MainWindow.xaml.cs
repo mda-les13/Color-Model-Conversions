@@ -110,5 +110,13 @@ namespace PKG_Lab1
                 B.Text = e.NewValue.Value.B.ToString();
             }
         }
+
+        private void textBox_PreviewKeyDown(object sender, KeyEventArgs e)
+        {
+            if ((e.Key < Key.D0 || e.Key > Key.D9) && e.Key != Key.Back)
+            {
+                e.Handled = true;
+            }
+        }
     }
 }
