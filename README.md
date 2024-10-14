@@ -1,6 +1,5 @@
 # Computer-graphics-programming-Lab-1
 Color model conversions
-# Документация к проекту PKG_Lab1
 
 ## Описание
 
