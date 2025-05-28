@@ -8,7 +8,7 @@
 
 1. Убедитесь, что у вас установлена .NET Framework версии 4.5 или выше.
 2. Склонируйте репозиторий:
-      git clone https://github.com/ваш-репозиторий/PKG_Lab1.git
+      git clone https://github.com/mda-les13/Color-Model-Conversions.git
    
 3. Откройте проект в Visual Studio.
 4. Соберите и запустите проект.
